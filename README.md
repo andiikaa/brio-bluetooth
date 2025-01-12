@@ -3,7 +3,7 @@
 In this project the focus is not on the complete reverse engineering of the brio protocol, I just wanted to learn how to reverse engineer bluetooth protocols in general.
 
 Some [BRIO](https://www.brio.de/de-DE/produkte/eisenbahn/smart-tech-sound) products allow the connection via bluetooth and the controll of their toys via iOS app.
-I used [this train](https://www.brio.de/de-DE/produkte/eisenbahn/smart-tech-sound/smart-tech-soundlok-m-aufnahmef-63397100) to change the colors of the lights via iOS app.
+The current implementation will just change the colors for the headlights of [this train](https://www.brio.de/de-DE/produkte/eisenbahn/smart-tech-sound/smart-tech-soundlok-m-aufnahmef-63397100).
 
 ## spec
 
